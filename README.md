@@ -6,12 +6,8 @@ This project aims to predict DON concentration in corn samples using hyperspectr
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Model Training and Evaluation](#model-training-and-evaluation)
+- [Repository Structure](#repository-structure)
 - [Streamlit App](#streamlit-app)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
